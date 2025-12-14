@@ -22,15 +22,28 @@
 
 ###
 
-<p align="left">💡 Interesses<br><br>Tenho grande interesse em:<br><br>* Construir projetos reais que resolvam problemas significativos.<br>* Explorando o fascinante campo da IA ​​e experimentando com diferentes conjuntos de dados e modelos.</p>
+<h3 align="left">💡 Interesses</h3>
 
 ###
 
-<p align="left">📚 Hobbies<br>Além de programação, eu gosto de:<br><br>* Futebol.<br>* Família.</p>
+<p align="left">Tenho grande interesse em:<br><br>* Construir projetos reais que resolvam problemas significativos.<br>* Explorando o fascinante campo da IA ​​e experimentando com diferentes conjuntos de dados e modelos.</p>
 
 ###
 
-<p align="left">🌱 Objetivos Futuros<br><br>* Evoluir cada vez mais nas tecnologias, crescimento profissional e pessoal.</p>
+<h3 align="left">📚 Hobbies</h3>
+
+###
+
+<p align="left">Além de programação, eu gosto de:<br><br>* Futebol.<br>* Família.</p>
+
+###
+
+<h3 align="left">🌱 Objetivos Futuros</h3>
+
+
+###
+
+<p align="left">* Evoluir cada vez mais nas tecnologias, crescimento profissional e pessoal.</p>
 
 ###
 
