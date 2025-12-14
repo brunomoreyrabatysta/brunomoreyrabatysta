@@ -1,6 +1,6 @@
 <h2>Bem-vindo!</h2>
 
-<h2>Eu sou o Bruno Batista. Deixe-me apresentar um pouco sobre mim.</h2>
+<h2>Eu sou o Bruno Batista.</br>Deixe-me apresentar um pouco sobre mim.</h2>
 
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=brunomoreyrabatysta&color=blue"><img src="https://komarev.com/ghpvc/?username=brunomoreyrabatysta&color=blue" alt="Profile Views" data-canonical-src="https://komarev.com/ghpvc/?username=brunomoreyrabatysta&color=blue" style="max-width: 100%;"></a>
