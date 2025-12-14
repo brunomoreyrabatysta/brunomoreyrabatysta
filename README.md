@@ -14,7 +14,11 @@
 
 ###
 
-<p align="left">🚀 Especialização<br><br>* Linguagem de Progamação: C#, .Net, Entity Framework, Dapper<br>* Desenvolvimento Full-Stack: <br>* Habilidade Interpessoais: Habilidades organizacionais, colaboração, pró-ativo, focado no cliente, evolução e clareza</p>
+<h3 align="left">🚀 Especialização</h3>
+
+###
+
+<p align="left">* Linguagem de Progamação: C#, .Net, Entity Framework, Dapper<br>* Desenvolvimento Full-Stack: <br>* Habilidade Interpessoais: Habilidades organizacionais, colaboração, pró-ativo, focado no cliente, evolução e clareza</p>
 
 ###
 
