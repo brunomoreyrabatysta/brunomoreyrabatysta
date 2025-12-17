@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Tenho grande interesse em:<br><br>* Construir projetos reais que resolvam problemas significativos.<br>* Explorando o fascinante campo da IA ​​e experimentando com diferentes conjuntos de dados e modelos.</p>
+<p align="left">Tenho grande interesse em:<br><br>* Construir projetos reais que resolvam problemas significativos.<br></p>
 
 ###
 
